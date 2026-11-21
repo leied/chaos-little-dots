@@ -9,4 +9,4 @@ yt-dlp \
     --parse-metadata "playlist_index:%(track_number)s" \
     --windows-filenames \
     -o "%(uploader)s - %(title)s.%(ext)s" \
-    "https://www.youtube.com/watch?v=ALq6X-OucWI"
+    "URL_HERE"
